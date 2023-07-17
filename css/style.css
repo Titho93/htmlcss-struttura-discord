@@ -11,7 +11,7 @@
 .contain {
   margin: 0 auto;
   width: 90%;
-  max-width: 1200px;
+  max-width: 1400px;
 }
 
 .header-up {
@@ -110,3 +110,29 @@ nav {
   flex-grow: 1;
   border: 1px solid black;
 } 
+
+.footer-down {
+  background-color: #23272A;
+}
+
+.footer-down .contain {
+  padding-top: 20px;
+}  
+
+.end-square {
+  background-color: #7FFFD4;
+  display: flex;
+  justify-content: space-between;
+  /* da eliminare  */
+  height: 60px;
+}
+
+.logo-end {
+  background-color: #FFB6C1;
+  align-self: center;
+} 
+
+.button {
+  background-color: #FFB6C1;
+  align-self: center;
+}
