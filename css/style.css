@@ -42,6 +42,29 @@ nav {
 
 .description {
   background-color: #EE81EE;
-  height: 420px;
+  /* da eliminare */
+  height: 420px;   
 }
+
+.white {
+  background-color: white;
+}
+
+.white .contain {
+  padding: 20px 0;
+  display: flex;
+  /* da eliminare  */
+  height: 500px;
+}
+
+.lightblue {
+  background-color: #1E90FF;
+  flex-grow: 2;
+}
+
+.pink {
+  background-color: #FFC0CB;
+  flex-grow: 1;
+}
+
 
