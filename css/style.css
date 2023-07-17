@@ -8,12 +8,6 @@
   height: 500px;
 }
 
-.clearfix {
-  clear: both;
-    display: block;
-    content: "";
-}
-
 .contain {
   margin: 0 auto;
   width: 90%;
@@ -92,3 +86,27 @@ nav {
 .end-main .contain {
   padding: 40px 0;
 }
+
+.footer-up {
+  background-color: #23272A;
+}
+
+.footer-up .contain {
+  padding-top: 10px;
+  padding-bottom: 30px;
+  display: flex;
+  /* da eliminare  */
+  height: 500px;
+  border-bottom: 2px solid white;
+}
+
+.red {
+  background-color: #F08080;
+  flex-grow: 2;
+}
+
+.wood-green {
+  background-color: #21B2AA;
+  flex-grow: 1;
+  border: 1px solid black;
+} 
