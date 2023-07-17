@@ -79,3 +79,16 @@ nav {
   height: 500px;
 }
 
+.end-main {
+  background-color: #D3D3D3;
+}
+
+.green {
+  background-color: #218B21;
+  /* da eliminare  */
+  height: 900px;
+}
+
+.end-main .contain {
+  padding: 40px 0;
+}
